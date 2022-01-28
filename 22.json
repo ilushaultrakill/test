@@ -18,10 +18,16 @@
     ],
     "category": "image",
     "creators": [
-      {
-        "address": "4jwtiuK9L14HukfhyJ3DUhL2uQk75BB145ALqnGug6n4",
-        "share": 3
-      }
+        {
+            "address": "21uKfVaqiszz22z88QfwZUT6Ynvb5YeksRhq51q6AcyJ",
+            "verified": true,
+            "share": 0
+        },
+        {
+            "address": "4jwtiuK9L14HukfhyJ3DUhL2uQk75BB145ALqnGug6n4",
+            "verified": false,
+            "share": 100
+        }
     ]
   }
 }
