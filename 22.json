@@ -9,6 +9,36 @@
     "name": "HDBD",
     "family": "HDBD"
   },
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cyber Grey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fireball"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Golden Chain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ],
   "properties": {
     "files": [
       {
