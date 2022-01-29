@@ -1,57 +1,44 @@
 {
-  "name": "HD Boryoku Dragonz #697",
+  "name": "HD Boryoku Dragonz #11",
   "symbol": "HDBD",
-  "description": "777 HD Boryoku Dragonz.",
+  "description": "1,111 HD Boryoku Dragonz.",
   "seller_fee_basis_points": 10000,
-  "image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmZpRiBaWm7qCmP4B82t1JqMiZVdmsZnzgjR3SaAvoJmhJ/22.jpg",
-  "external_url": "",
+  "image": "image.jpg",
   "collection": {
-    "name": "HD Boryoku Dragonz #697",
+    "name": "HDBD",
     "family": "HDBD"
   },
-  "attributes": [
-    {
-      "trait_type": "Generation",
-      "value": "Genesis"
-    },
-    {
-      "trait_type": "Type",
-      "value": "Cyber Grey"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Fireball"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Laser Eyes"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
-    },
-    {
-      "trait_type": "Neck",
-      "value": "Golden Chain"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Blue"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmZpRiBaWm7qCmP4B82t1JqMiZVdmsZnzgjR3SaAvoJmhJ/22.jpg",
-        "type": "image/png"
-      }
-    ],
+	"attributes": [{
+            "trait_type": "Generation",
+            "value": "Genesis"
+        }, {
+            "trait_type": "Type",
+            "value": "Zombie Golden"
+        }, {
+            "trait_type": "Head",
+            "value": "None"
+        }, {
+            "trait_type": "Eyes",
+            "value": "Red Eyes"
+        }, {
+            "trait_type": "Mouth",
+            "value": "None"
+        }, {
+            "trait_type": "Neck",
+            "value": "None"
+        }, {
+            "trait_type": "Background",
+            "value": "Nuclear Plant"
+        }], 
+ "properties": {
+    "files": [{
+     "uri": "image.jpg",
+      "type": "image/jpg"
+    }],
     "category": "image",
-    "creators": [
-      {
-        "address": "4jwtiuK9L14HukfhyJ3DUhL2uQk75BB145ALqnGug6n4",
-        "share": 0.1
-      }
-    ]
+    "creators": [{
+      "address": "4jwtiuK9L14HukfhyJ3DUhL2uQk75BB145ALqnGug6n4",
+      "share": 100
+    }]
   }
 }
