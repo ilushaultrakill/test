@@ -3,7 +3,7 @@
   "symbol": "HDBD",
   "description": "1,111 HD Boryoku Dragonz.",
   "seller_fee_basis_points": 10000,
-  "image": "image.jpg",
+  "image": "https://testlaunchmynft.mypinata.cloud/ipfs/QmZpRiBaWm7qCmP4B82t1JqMiZVdmsZnzgjR3SaAvoJmhJ/22.jpg",
   "collection": {
     "name": "HDBD",
     "family": "HDBD"
@@ -32,7 +32,7 @@
         }], 
  "properties": {
     "files": [{
-     "uri": "image.jpg",
+     "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmZpRiBaWm7qCmP4B82t1JqMiZVdmsZnzgjR3SaAvoJmhJ/22.jpg",
       "type": "image/jpg"
     }],
     "category": "image",
